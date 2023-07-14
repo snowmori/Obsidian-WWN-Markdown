@@ -5,14 +5,14 @@ tags: WWN
 title: The Rules of the Game
 ---
 
-# The Basic Systems
+## The Basic Systems
 A summary of the core systems WWN uses.
 
 - **[[Skill-Checks|Skill checks:]]**: When a PC attempts something unrelated to combat that requires skill. 
 - **[[Saving-Throws|Saving throws]]:** When a PC seeks to avoid incoming misfortunes.
 - **[[Combat]]**: When the PCs draw weapons and enter the fray.
 
-# Using These Systems
+## Using These Systems
 
 >[!tip]  Rulings over Rules
 > If the rules are unclear or the edge-case can't be found... make a (reasonable) judgement call and move on! OSR takes the philosophy "rulings over rules" to encourage play over scouring a rulebook.

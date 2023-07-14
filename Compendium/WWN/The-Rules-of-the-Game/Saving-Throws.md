@@ -18,5 +18,5 @@ There are four types of throws.
 >[!info] For Avoiding Peril
 > These throws are for last chances to avoid the worst of a dire fate, especially when no other dice are there for determining it. 
 
-# Monster and Saving Throws
+## Monster and Saving Throws
 NPCs only have one saving throw score instead of multiple to encompass their own saves against PC effects or other dangers. 

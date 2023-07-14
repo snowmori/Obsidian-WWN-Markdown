@@ -14,3 +14,6 @@ title: Skill Checks
 - [Skill Checks](Compendium/WWN/The-Rules-of-the-Game/Skill%20Checks/Skill%20Checks.md)
 
 %% End Waypoint %%
+
+## Skill Checks
+
